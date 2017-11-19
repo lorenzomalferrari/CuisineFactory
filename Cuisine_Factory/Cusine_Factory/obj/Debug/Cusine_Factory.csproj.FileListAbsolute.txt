@@ -1,0 +1,7 @@
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\bin\Debug\Cusine_Factory.exe.config
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\bin\Debug\Cusine_Factory.exe
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\bin\Debug\Cusine_Factory.pdb
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\obj\Debug\Cusine_Factory.csprojResolveAssemblyReference.cache
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\obj\Debug\Cusine_Factory.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\obj\Debug\Cusine_Factory.exe
+C:\Users\Lorenzo_informatica\Desktop\Cusine_Factory\Cusine_Factory\obj\Debug\Cusine_Factory.pdb
